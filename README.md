@@ -11,4 +11,4 @@ the project is used with [this dataset](https://www.kaggle.com/datasets/emirhana
 
 Note: not all 15 class are used, only the following classes (drinking, eating, fighting, dancing, clapping & laughing) as per requirements.
 
-the project is done using hand-crafted model with convolution and pooling layers, and another transfer learning model ( inception v3 )
+the project is done using hand-crafted model with convolution and pooling layers, and another transfer learning model (inception v3).
