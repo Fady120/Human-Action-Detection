@@ -7,7 +7,7 @@ This project is done for the college course CC511 Introduction to Artificial Int
 > * e. Confusion matrix and test accuracy score must be printed.
 
 
-the project is used with [this dataset](https://www.kaggle.com/datasets/emirhanai/human-action-detection-artificial-intelligence) from kaggle
+the project is used with [this dataset](https://www.kaggle.com/datasets/emirhanai/human-action-detection-artificial-intelligence) from kaggle.
 
 Note: not all 15 class are used, only the following classes (drinking, eating, fighting, dancing, clapping & laughing) as per requirements.
 
